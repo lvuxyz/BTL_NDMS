@@ -1,0 +1,12 @@
+# Sử dụng LF cho các file cấu hình và file text
+*.cfg text eol=lf
+*.xml text eol=lf
+*.names text eol=lf
+
+# Đảm bảo tất cả các file text khác sử dụng LF
+* text=auto eol=lf
+
+# Bỏ qua các file nhị phân, không thay đổi dòng kết thúc
+*.weights binary
+*.png binary
+*.jpg binary
