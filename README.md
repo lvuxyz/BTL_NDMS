@@ -142,6 +142,3 @@ python test.py
 
 Hãy tự do fork dự án này và gửi pull request. Đối với những thay đổi lớn, vui lòng mở issue trước để thảo luận về những gì bạn muốn thay đổi.
 
-## Giấy Phép
-
-Dự án này được cấp phép theo Giấy phép MIT - xem file LICENSE để biết chi tiết.
